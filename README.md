@@ -3,6 +3,8 @@ Image processing is one of the most common term in computer vision. Computer vis
 
 This repository contains codes that address the basic concepts of image processing using OpenCV library. The following image processing tasks are;
 
+
+### Saving images
 ### Capturing video
 ### Loading videos
 ### Convert color images to grayscale
