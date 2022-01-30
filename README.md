@@ -6,8 +6,8 @@ This repository contains codes that address the basic concepts of image processi
 ### reading images
 ### Saving images
 ### Capturing video
-### Loading videos
 
+### Convert color images to grayscale
 ### Saving real-time video
 ### Retrieving properties from images and video
 ### Creating shapes and writing text on images and video
