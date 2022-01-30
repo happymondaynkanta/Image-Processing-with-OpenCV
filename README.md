@@ -1,0 +1,2 @@
+# Introduction-to-Image-Processing
+Image processing is one of the most common term in computer vision. Computer vision is the process by which computers can understand images and videos, and  how they are stored, manipulated, and retrieve details from them. OpenCV is an open source computer vision  image processing library for machine learning, deep leaning and AI application which plays a major role in real-time operation which is very important in today’s systems.
